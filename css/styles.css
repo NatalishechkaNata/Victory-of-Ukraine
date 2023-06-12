@@ -1,0 +1,113 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+.hero {
+    font-weight: 800;
+    font-size: 93px;
+    line-height: 94.9%;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color: #9AD2DE;
+}
+
+.descr {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #000000;
+}
+
+.nav-link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 96.9%;
+    color: #000000;
+    text-decoration: none;
+}
+
+.btn {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 96.9%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    background: #7AE5FD;
+    border-radius: 87px;
+    box-sizing: border-box;
+}
+
+.programm {
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 94.9%;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.spend-time {
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 96.9%;
+    color: #000000;
+}
+
+.location {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #73A6B1;
+}
+
+.scena {
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 94.9%;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.after-war {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 96.9%;
+    color: #000000;
+}
+
+.action {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 96.9%;
+    color: #000000;
+}
+
+.time {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 96.9%;
+    color: #3D8C9D;
+}
+
+.singer {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 96.9%;
+    color: #000000;
+}
+.master-classes{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 96.9%;
+    color: #000000;  
+}
+.bgd{
+    background: #F1FDFF;
+border-radius: 10px;
+}
